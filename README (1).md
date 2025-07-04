@@ -1,6 +1,5 @@
 
-# 🧠 PATHPOC
-
+# 🧠 WSI Dashboard App
 
 A cross-platform desktop app for visualizing and managing whole-slide images (WSI) using:
 
