@@ -1,0 +1,6 @@
+
+# dependencies
+frontend/.gitignore
+backend/.gitignore
+.venv/pyvenv.cfg
+.venv/
